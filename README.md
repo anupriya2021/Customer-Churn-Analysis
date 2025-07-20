@@ -7,13 +7,13 @@ This project investigates customer churn in a telecom company using detailed exp
 🎯**PURPOSE:**   
 To understand key drivers behind churn, predict at-risk customers using classification models, and provide targeted recommendations that reduce churn and enhance customer loyalty.
 
-🛠️ **TECH STACK**
+🛠️**TECH STACK**
 - Python: for data manipulation, visualization, and modeling
 - Libraries: pandas, NumPy, matplotlib, seaborn, scikit-learn, XGBoost, SciPy
 - Algorithms: Random Forest, Logistic Regression, XGBoost, K-Means Clustering
 - Jupyter Notebook: for interactive coding and dashboard layout
 
-📊 **Data Source**
+📊**Data Source**
 The dataset used for this project comes from the Telco Customer Churn dataset available on Kaggle. It contains information about a telecom company's customers, including demographics, account details, and usage metrics.
 
 Source: Kaggle – Telco Customer Churn
@@ -27,7 +27,7 @@ Columns: 21 features + 1 target (Churn)
 Preprocessing: Filled missing TotalCharges, converted types, encoded labels, and engineered features like TenureGroup, TotalServices, and binary flags for service usage
 
 
-⭐ **Features / Highlights**
+⭐**Features / Highlights**
 
 🔍 Business Problem
 
@@ -54,7 +54,7 @@ To provide a visual and analytical understanding of churn behavior, support deci
 - Model performance: Logistic Regression achieves AUC ~0.84 — most accurate for predicting churn
 - Segmentation impact: Clustering enables tailored offers for loyalty, upsell, or onboarding
 
- **🧩 6. Business Problem**
+ **🧩Business Problem**
  
 Telecom companies face significant loss due to customer churn. Understanding which customers are most likely to churn—and why—can help prioritize retention efforts, reduce revenue leakage, and improve service value perception.
 
