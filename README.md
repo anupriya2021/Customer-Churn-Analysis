@@ -13,7 +13,7 @@ To understand key drivers behind churn, predict at-risk customers using classifi
 - Algorithms: Random Forest, Logistic Regression, XGBoost, K-Means Clustering
 - Jupyter Notebook: for interactive coding and dashboard layout
 
-  📊 **Data Source**
+📊 **Data Source**
 The dataset used for this project comes from the Telco Customer Churn dataset available on Kaggle. It contains information about a telecom company's customers, including demographics, account details, and usage metrics.
 
 Source: Kaggle – Telco Customer Churn
